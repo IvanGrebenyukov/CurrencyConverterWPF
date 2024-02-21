@@ -1,0 +1,38 @@
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\students.xml
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.pdb
+D:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\valutes.xml
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\students.xml
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\valutes.xml
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.pdb
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.SuggestedBindingRedirects.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.exe
+J:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.pdb
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\students.xml
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\valutes.xml
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\bin\Debug\ConsoleApp.pdb
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.exe
+L:\ИС РПО\4 Конвертер валют\Converter\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\bin\Debug\students.xml
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\bin\Debug\valutes.xml
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ConsoleApp\obj\Debug\ConsoleApp.pdb

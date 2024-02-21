@@ -1,0 +1,69 @@
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe.config
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.pdb
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.AssemblyReference.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.g.cs
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.g.cs
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.lref
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.baml
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.baml
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.g.resources
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.Properties.Resources.resources
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.GenerateResource.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.CoreCompileInputs.cache
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.exe
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.pdb
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe.config
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.pdb
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.AssemblyReference.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.SuggestedBindingRedirects.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.g.cs
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.g.cs
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.lref
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.baml
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.baml
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.g.resources
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.Properties.Resources.resources
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.GenerateResource.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.CoreCompileInputs.cache
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.exe
+J:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.pdb
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe.config
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\ValutesWpf.pdb
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.AssemblyReference.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.g.cs
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.g.cs
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.lref
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\App.baml
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\MainWindow.baml
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.g.resources
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.Properties.Resources.resources
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.GenerateResource.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.CoreCompileInputs.cache
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.exe
+L:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf.pdb
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\bin\Debug\Data\valutes.xml
+D:\ИС РПО\4 Конвертер валют\Converter\ValutesWpf\obj\Debug\ValutesWpf_Content.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\bin\Debug\Data\valutes.xml
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe.config
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\bin\Debug\ValutesWpf.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\bin\Debug\ValutesWpf.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.AssemblyReference.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\MainWindow.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\App.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf_Content.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf_MarkupCompile.lref
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\App.baml
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\MainWindow.baml
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.g.resources
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.Properties.Resources.resources
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.GenerateResource.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\ISRPO\Converter\ValutesWpf\obj\Debug\ValutesWpf.pdb

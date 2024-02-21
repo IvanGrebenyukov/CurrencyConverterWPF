@@ -1,0 +1,27 @@
+﻿<Window x:Class="ValutesWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ValutesWpf"
+        mc:Ignorable="d"
+        Title="Converter" Height="600" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    
+    <StackPanel Margin="8">
+        
+        <Label Content="Конвертер валют" Style="{StaticResource headerLabel}" />
+        <Label Content="Из: "  />
+        <ComboBox x:Name="FromComboBox" SelectionChanged="FromComboBox_SelectionChanged" />
+        
+        <Label Content="В: "  />
+        <ComboBox x:Name="ToComboBox" SelectionChanged="ToComboBox_SelectionChanged" />
+        
+        <Label Margin="0 50 0 0" Content="Исходная величина:"  />
+        <TextBox x:Name="InputBox" PreviewTextInput="InputBox_PreviewTextInput" TextChanged="InputBox_TextChanged" />
+        
+        <Label Content="Результат"  />
+        <TextBox IsReadOnly="True" x:Name="OutputBox"  />
+        
+    </StackPanel>
+    
+</Window>

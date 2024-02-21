@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<students>
+	<student id="1">
+		<surname>Иванов</surname>
+		<name>Иван</name>
+		<phone>84445553322</phone>
+	</student>
+	<student id="2">
+		<surname>Петров</surname>
+		<name>Петр</name>
+		<phone>85554323322</phone>
+	</student>
+	<student id="3">
+		<surname>Иванова</surname>
+		<name>Ксения</name>
+		<phone>81234443322</phone>
+	</student>
+	<student id="4">
+		<surname>Петрова</surname>
+		<name>Алена</name>
+		<phone>86664443322</phone>
+	</student>
+	<student id="5">
+		<surname>Гаражный</surname>
+		<name>Серафим</name>
+		<phone>85554443366</phone>
+	</student>
+</students>
